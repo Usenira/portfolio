@@ -1,0 +1,14 @@
+/* Debugging */
+/* * {
+  outline: 1px solid black;
+} */
+
+.image {
+  width: 100%;
+  mask-image: url("/src/assets/Mask.png");
+  mask-position: 3rem 6rem;
+  mask-size: 100%;
+  mask-repeat: no-repeat;
+  z-index: 1;
+
+}
